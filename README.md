@@ -12,7 +12,7 @@ As a Senior Programmer at Kantar, I've spearheaded initiatives to optimize data 
 - Skilled in extracting actionable insights and crafting compelling data-driven narratives
 
 ### Certifications
-I've completed certifications in design thinking, effective leadership, and leading yourself, underscoring my commitment to continuous learning and professional development.
+I've completed certifications in Google Data Analytics and Statistics Foundations, underscoring my commitment to continuous learning and professional development.
 
 ## Seeking Opportunities
 I'm eager to contribute my expertise in data processing and analysis to a dynamic team in a Data Analyst role. Open to networking, discussing potential collaborations, and exploring new opportunities within the field of data analysis.
