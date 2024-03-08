@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @zaXai558
-- 👀 I’m interested in Data analysis and python
-- 🌱 I’m currently learning SQL and java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there! 👋
 
-<!---
-zaXai558/zaXai558 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a data enthusiast with a B.Tech in Electrical Engineering, passionate about leveraging data to drive insights and solve complex problems. Currently, I'm on a journey to transition into a Data Analyst role, bringing with me a wealth of experience in data processing and analysis.
+
+### Professional Background
+As a Senior Programmer at Kantar, I've spearheaded initiatives to optimize data processing procedures, resulting in a 20% reduction in turnaround time and improved productivity. Collaborating with cross-functional teams, I've translated business requirements into technological specifications for robust data processing systems.
+
+### Skills
+- Proficient in data visualization, SQL, and Python
+- Experienced in tools like Power BI, Pandas, and Matplotlib
+- Skilled in extracting actionable insights and crafting compelling data-driven narratives
+
+### Certifications
+I've completed certifications in design thinking, effective leadership, and leading yourself, underscoring my commitment to continuous learning and professional development.
+
+## Seeking Opportunities
+I'm eager to contribute my expertise in data processing and analysis to a dynamic team in a Data Analyst role. Open to networking, discussing potential collaborations, and exploring new opportunities within the field of data analysis.
+
+Let's connect and explore how we can work together to unlock the power of data!
