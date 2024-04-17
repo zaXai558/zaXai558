@@ -1,6 +1,7 @@
 # Hi there! 👋
 
 ## About Me
+**'Data Enthusiast (Analyst/Processer)'**
 I'm a data enthusiast with a B.Tech in Electrical Engineering, passionate about leveraging data to drive insights and solve complex problems. Currently, I'm on a journey to transition into a Data Analyst role, bringing with me a wealth of experience in data processing and analysis.
 
 ### Professional Background
