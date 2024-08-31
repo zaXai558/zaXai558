@@ -1,12 +1,12 @@
 # Hi there! 👋
 
 ## About Me
-**`Data Enthusiast (Analyst/Processer)`**
+**`Data Enthusiast (Analyst/Consultant)`**
 
 I'm a data enthusiast with a B.Tech in Electrical Engineering, passionate about leveraging data to drive insights and solve complex problems. Currently, I'm on a journey to transition into a Data Analyst role, bringing with me a wealth of experience in data processing and analysis.
 
 ### Professional Background
-As a Senior Programmer at Kantar, I've spearheaded initiatives to optimize data processing procedures, resulting in a 20% reduction in turnaround time and improved productivity. Collaborating with cross-functional teams, I've translated business requirements into technological specifications for robust data processing systems.
+As a Consultant at CAPCO, I've spearheaded initiatives to optimize data processing procedures, resulting in a 20% reduction in turnaround time and improved productivity. Collaborating with cross-functional teams, I've translated business requirements into technological specifications for robust data processing systems.
 
 ### Skills
 - Proficient in data visualization, SQL, and Python
